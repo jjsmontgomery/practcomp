@@ -40,8 +40,8 @@ print(Hello)
 ## Tables
 
 First Header | Second Header
-____________ | _____________
-Content A1 | Content Cell B1
+------------ | ------------
+Content A1 | Content B1
 Content A2 | Content B2
 
 

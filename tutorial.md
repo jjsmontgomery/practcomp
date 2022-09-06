@@ -48,8 +48,6 @@ Content A2 | Content B2
 ## Emoji
 
 :spider:
-:joker:
-:heart hands:
 :taco:
 :rose:
 
